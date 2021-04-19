@@ -2,6 +2,7 @@
 
 This is a sample hotel reservation site using React and its components.
 Most of the code is built using JSX and is documented wherever required.
+The react package has to be downloaded before running the project.
  
 Some of the features you can find in here are:-
 > Nicely styled Comfortable to the eye application.
